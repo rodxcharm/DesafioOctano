@@ -18,8 +18,12 @@ Una vez ejecutado correctamente el comando anterior, ya tendremos en ejecucion n
 # Paso 5
 En este paso, procederemos a validar la correcta operacion de nuestro webserver Apache montado en el contenedor creado. Para ello debemos abrir el navegador de su gusto e ingresar a http://localhost, los cual nos mostrara nuestro codigo en base 64, tal como muestra la siguiente imagen:
 ![image](https://user-images.githubusercontent.com/84494491/118931932-7bf46c80-b915-11eb-9333-8c9be23e8c6b.png)
-
 Siguiendo estos pasos, podremos tener operativo nuestro webserver alojado en contenedor.
-¡Muchas gracias por el desafío!
+
+
+¡Muchas gracias por el desafío!:muscle::muscle::muscle:
+
+
+
 
 NOTA: me tomo aproximadamente 5 horas lograr el objetivo.
